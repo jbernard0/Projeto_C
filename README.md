@@ -11,4 +11,4 @@ os problemas que tive a realizar o program:
                                            
                                            
                                            
-*quem usar o programa deixa a secção da roupa para o fim*
+*quem usar o programa deixe a secção da roupa para o fim*
