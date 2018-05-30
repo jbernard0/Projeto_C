@@ -1,0 +1,193 @@
+# depslib dependency file v1.0
+1526466442 source:c:\users\psi17f09\desktop\programação\projeto em c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.c>
+	<locale.h>
+	"tochas.h"
+	"roupa.h"
+	"ascii art.h"
+	"acessorios.h"
+	"autocolantes.h"
+	"login.h"
+
+1526467107 c:\users\psi17f09\desktop\programação\projeto em c\tochas.h
+
+1525952021 c:\users\psi17f09\desktop\programação\projeto em c\roupa.h
+
+1525944092 c:\users\psi17f09\desktop\programação\projeto em c\ascii art.h
+
+1525347250 c:\users\psi17f09\desktop\programação\projeto em c\login.h
+
+1525952004 c:\users\psi17f09\desktop\programação\projeto em c\acessorios.h
+
+1525951988 c:\users\psi17f09\desktop\programação\projeto em c\autocolantes.h
+
+1526471993 source:c:\users\psi17f09\desktop\programação\projeto_em_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.c>
+	<locale.h>
+	"tochas.h"
+	"roupa.h"
+	"ascii art.h"
+	"acessorios.h"
+	"autocolantes.h"
+	"login.h"
+
+1526468818 c:\users\psi17f09\desktop\programação\projeto_em_c\tochas.h
+
+1526472520 c:\users\psi17f09\desktop\programação\projeto_em_c\roupa.h
+
+1525944092 c:\users\psi17f09\desktop\programação\projeto_em_c\ascii art.h
+
+1526471245 c:\users\psi17f09\desktop\programação\projeto_em_c\acessorios.h
+
+1526469487 c:\users\psi17f09\desktop\programação\projeto_em_c\autocolantes.h
+
+1525347250 c:\users\psi17f09\desktop\programação\projeto_em_c\login.h
+
+1527705512 source:g:\projeto_em_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.c>
+	<locale.h>
+	"tochas.h"
+	"roupa.h"
+	"ascii art.h"
+	"acessorios.h"
+	"autocolantes.h"
+	"carrinho.h"
+	"login.h"
+
+1527705978 g:\projeto_em_c\tochas.h
+
+1527025540 g:\projeto_em_c\roupa.h
+
+1527076844 g:\projeto_em_c\ascii art.h
+
+1527183538 g:\projeto_em_c\acessorios.h
+
+1527022648 g:\projeto_em_c\autocolantes.h
+
+1527185796 g:\projeto_em_c\login.h
+
+1526844062 source:d:\projeto_em_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.c>
+	<locale.h>
+	"tochas.h"
+	"roupa.h"
+	"ascii art.h"
+	"acessorios.h"
+	"autocolantes.h"
+	"carrinho.h"
+	"login.h"
+
+1526591572 d:\projeto_em_c\tochas.h
+
+1526843646 d:\projeto_em_c\roupa.h
+
+1526591572 d:\projeto_em_c\ascii art.h
+
+1526592324 d:\projeto_em_c\acessorios.h
+
+1526592324 d:\projeto_em_c\autocolantes.h
+
+1525347252 d:\projeto_em_c\login.h
+
+1526553884 source:c:\users\psi17f09\desktop\projeto_em_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.c>
+	<locale.h>
+	"tochas.h"
+	"roupa.h"
+	"ascii art.h"
+	"acessorios.h"
+	"autocolantes.h"
+	"carrinho.h"
+	"login.h"
+
+1526553982 c:\users\psi17f09\desktop\projeto_em_c\tochas.h
+
+1526554043 c:\users\psi17f09\desktop\projeto_em_c\roupa.h
+
+1525944094 c:\users\psi17f09\desktop\projeto_em_c\ascii art.h
+
+1526554055 c:\users\psi17f09\desktop\projeto_em_c\acessorios.h
+
+1526554063 c:\users\psi17f09\desktop\projeto_em_c\autocolantes.h
+
+1525347252 c:\users\psi17f09\desktop\projeto_em_c\login.h
+
+1526554200 c:\users\psi17f09\desktop\projeto_em_c\carrinho.h
+
+1527152912 g:\projeto_em_c\carrinho.h
+
+1526987550 d:\projeto_em_c\carrinho.h
+
+1526991198 source:e:\projeto_em_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.c>
+	<locale.h>
+	"tochas.h"
+	"roupa.h"
+	"ascii art.h"
+	"acessorios.h"
+	"autocolantes.h"
+	"carrinho.h"
+	"login.h"
+
+1526991214 e:\projeto_em_c\tochas.h
+
+1526990356 e:\projeto_em_c\roupa.h
+
+1526988510 e:\projeto_em_c\ascii art.h
+
+1526592324 e:\projeto_em_c\acessorios.h
+
+1526592324 e:\projeto_em_c\autocolantes.h
+
+1526992160 e:\projeto_em_c\carrinho.h
+
+1525347252 e:\projeto_em_c\login.h
+
+1526990748 e:\projeto_em_c\menus.h
+
+1527152956 source:f:\projeto_em_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.c>
+	<locale.h>
+	"tochas.h"
+	"roupa.h"
+	"ascii art.h"
+	"acessorios.h"
+	"autocolantes.h"
+	"carrinho.h"
+	"login.h"
+
+1527067472 f:\projeto_em_c\tochas.h
+
+1527025540 f:\projeto_em_c\roupa.h
+
+1527076844 f:\projeto_em_c\ascii art.h
+
+1527022234 f:\projeto_em_c\acessorios.h
+
+1527022648 f:\projeto_em_c\autocolantes.h
+
+1527152912 f:\projeto_em_c\carrinho.h
+
+1527164470 f:\projeto_em_c\login.h
+
